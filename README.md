@@ -1,4 +1,4 @@
-# Matplotlib-challenge
+# Statistical Analysis of Drugs Efficacy on Tumors
 #### By: Jack Cohen
 
 ## Pymaceuticals Inc.
